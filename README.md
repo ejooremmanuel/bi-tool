@@ -1,3 +1,7 @@
+## Requirements
+Nodejs 20+
+
+
 ## Getting Started
 
 First, install dependenpencies and run the development server:
@@ -12,5 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## About the project
 To login,
 Use test123 as the password
+
+
+
 
 

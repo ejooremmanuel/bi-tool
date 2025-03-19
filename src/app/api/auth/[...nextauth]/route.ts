@@ -49,4 +49,4 @@ const authOptions = {
 // Export API routes in App Router format
 //@ts-expect-error testing
 const handler = NextAuth(authOptions);
-export { handler as GET, handler as POST, authOptions };
+export { handler as GET, handler as POST };
